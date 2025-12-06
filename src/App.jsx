@@ -41,7 +41,7 @@ import {
 
 // --- Firebase Configuration ---
 const firebaseConfig = {
-  apiKey: "AIzaSyBloJA4_yh6tsFOujSgv4_wbbV7OMu0TXk",
+  apiKey: "DEL"
   authDomain: "debt-record-c1b6b.firebaseapp.com",
   projectId: "debt-record-c1b6b",
   storageBucket: "debt-record-c1b6b.firebasestorage.app",
