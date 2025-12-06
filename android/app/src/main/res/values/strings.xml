@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Debt</string>
+    <string name="title_activity_main">Debt</string>
+    <string name="package_name">com.debttracker.app</string>
+    <string name="custom_url_scheme">com.debttracker.app</string>
+</resources>
